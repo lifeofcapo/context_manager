@@ -3,7 +3,7 @@ context_manager_env/
 env/
 venv/
 .env/
-
+pkg/
 .vscode/
 .idea/
 *.swp
